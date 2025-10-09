@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://pivlab.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pivlab.org/" rel="alternate" type="text/html" /><updated>2025-09-09T18:35:25+00:00</updated><id>https://pivlab.org/feed.xml</id><title type="html">Pividori Lab</title><subtitle>We are a research laboratory at the University of Colorado Anschutz Medical Campus. We design advanced machine learning methods applied to human disease with a systems biology approach.</subtitle><entry><title type="html">Manugen AI - Agent Development Kit Hackathon with Google Cloud</title><link href="https://pivlab.org/2025/06/23/Google-ADK-Hackathon.html" rel="alternate" type="text/html" title="Manugen AI - Agent Development Kit Hackathon with Google Cloud" /><published>2025-06-23T00:00:00+00:00</published><updated>2025-09-09T18:33:03+00:00</updated><id>https://pivlab.org/2025/06/23/Google-ADK-Hackathon</id><content type="html" xml:base="https://pivlab.org/2025/06/23/Google-ADK-Hackathon.html"><![CDATA[<figure class="figure">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://jillhoffman.github.io/pivlab-website/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jillhoffman.github.io/pivlab-website/" rel="alternate" type="text/html" /><updated>2025-10-09T20:58:10+00:00</updated><id>https://jillhoffman.github.io/pivlab-website/feed.xml</id><title type="html">Pividori Lab</title><subtitle>We are a research laboratory at the University of Colorado Anschutz Medical Campus. We design advanced machine learning methods applied to human disease with a systems biology approach.</subtitle><entry><title type="html">Manugen AI - Agent Development Kit Hackathon with Google Cloud</title><link href="https://jillhoffman.github.io/pivlab-website/2025/06/23/Google-ADK-Hackathon.html" rel="alternate" type="text/html" title="Manugen AI - Agent Development Kit Hackathon with Google Cloud" /><published>2025-06-23T00:00:00+00:00</published><updated>2025-10-09T20:27:09+00:00</updated><id>https://jillhoffman.github.io/pivlab-website/2025/06/23/Google-ADK-Hackathon</id><content type="html" xml:base="https://jillhoffman.github.io/pivlab-website/2025/06/23/Google-ADK-Hackathon.html"><![CDATA[<figure class="figure">
   <a class="figure-image" aria-label="figure link">
-    <img src="/images/blog/manuscript_deadlines.png" style="
+    <img src="/pivlab-website/images/blog/manuscript_deadlines.png" style="
         width: 60%;
         max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="figure image" loading="lazy" onerror="this.src = '/pivlab-website/images/fallback.svg'; this.onerror = null;" />
   </a>
   
 </figure>
@@ -18,10 +18,10 @@ Moreover, time spent polishing figures, formatting references, and resolving rev
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
-    <img src="/images/blog/hackathon.png" style="
+    <img src="/pivlab-website/images/blog/hackathon.png" style="
         width: 70%;
         max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="figure image" loading="lazy" onerror="this.src = '/pivlab-website/images/fallback.svg'; this.onerror = null;" />
   </a>
   
 </figure>
@@ -34,10 +34,10 @@ The hackathon’s tight timeframe forced us to confront real-world integration a
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
-    <img src="/images/blog/ADK%20Hackathon%202025%20Hero%20Image.png" style="
+    <img src="/pivlab-website/images/blog/ADK%20Hackathon%202025%20Hero%20Image.png" style="
         width: 60%;
         max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="figure image" loading="lazy" onerror="this.src = '/pivlab-website/images/fallback.svg'; this.onerror = null;" />
   </a>
   
 </figure>
@@ -47,10 +47,10 @@ The Agent Development Kit Hackathon with Google Cloud challenged participants to
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
-    <img src="/images/blog/ai_assisted_writing.png" style="
+    <img src="/pivlab-website/images/blog/ai_assisted_writing.png" style="
         width: 60%;
         max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="figure image" loading="lazy" onerror="this.src = '/pivlab-website/images/fallback.svg'; this.onerror = null;" />
   </a>
   
 </figure>
@@ -72,10 +72,10 @@ The user can use Manugen-AI to go from results, figures, and rough instructions,
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
-    <img src="/images/blog/manugen-ai-frontend.png" style="
+    <img src="/pivlab-website/images/blog/manugen-ai-frontend.png" style="
         width: 100%;
         max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="figure image" loading="lazy" onerror="this.src = '/pivlab-website/images/fallback.svg'; this.onerror = null;" />
   </a>
   
 </figure>
@@ -97,10 +97,10 @@ Once agents have taken actions on the content, users may analyze the results and
 
 <figure class="figure">
   <a class="figure-image" aria-label="Manugen-AI enables you to produce high-quality agentic output for use with scientific manuscript generation.">
-    <img src="/images/blog/full_manugen_ai_example.gif" style="
+    <img src="/pivlab-website/images/blog/full_manugen_ai_example.gif" style="
         width: 100%;
         max-height: unset;
-      " alt="Manugen-AI enables you to produce high-quality agentic output for use with scientific manuscript generation." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="Manugen-AI enables you to produce high-quality agentic output for use with scientific manuscript generation." loading="lazy" onerror="this.src = '/pivlab-website/images/fallback.svg'; this.onerror = null;" />
   </a>
   
     <figcaption class="figure-caption">
@@ -120,10 +120,10 @@ Once agents have taken actions on the content, users may analyze the results and
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
-    <img src="/images/blog/coordinator_agent_core_tb.png" style="
+    <img src="/pivlab-website/images/blog/coordinator_agent_core_tb.png" style="
         width: 100%;
         max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="figure image" loading="lazy" onerror="this.src = '/pivlab-website/images/fallback.svg'; this.onerror = null;" />
   </a>
   
 </figure>
@@ -146,10 +146,10 @@ For example, the Introduction agent’s prompt has instructions to highlight the
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
-    <img src="/images/blog/coordinator_agent_extensions_lr.png" style="
+    <img src="/pivlab-website/images/blog/coordinator_agent_extensions_lr.png" style="
         width: 68%;
         max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="figure image" loading="lazy" onerror="this.src = '/pivlab-website/images/fallback.svg'; this.onerror = null;" />
   </a>
   
 </figure>
@@ -167,10 +167,10 @@ See an example below using our <a href="https://github.com/pivlab/manugen-ai">Ma
 
 <figure class="figure">
   <a class="figure-image" aria-label="The Repos action provides users with a way to provide a repository link and draft an entire paper.">
-    <img src="/images/blog/repo_manugen_ai_demo.gif" style="
+    <img src="/pivlab-website/images/blog/repo_manugen_ai_demo.gif" style="
         width: 100%;
         max-height: unset;
-      " alt="The Repos action provides users with a way to provide a repository link and draft an entire paper." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="The Repos action provides users with a way to provide a repository link and draft an entire paper." loading="lazy" onerror="this.src = '/pivlab-website/images/fallback.svg'; this.onerror = null;" />
   </a>
   
     <figcaption class="figure-caption">
@@ -184,10 +184,10 @@ See an example below using our <a href="https://github.com/pivlab/manugen-ai">Ma
 
 <figure class="figure">
   <a class="figure-image" aria-label="The Cites action provides users with a way to incorporate relevant citations to help strengthen and relate the paper content to other works.">
-    <img src="/images/blog/cites_manugen_ai_demo.gif" style="
+    <img src="/pivlab-website/images/blog/cites_manugen_ai_demo.gif" style="
         width: 100%;
         max-height: unset;
-      " alt="The Cites action provides users with a way to incorporate relevant citations to help strengthen and relate the paper content to other works." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="The Cites action provides users with a way to incorporate relevant citations to help strengthen and relate the paper content to other works." loading="lazy" onerror="this.src = '/pivlab-website/images/fallback.svg'; this.onerror = null;" />
   </a>
   
     <figcaption class="figure-caption">
@@ -201,10 +201,10 @@ See an example below using our <a href="https://github.com/pivlab/manugen-ai">Ma
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
-    <img src="/images/blog/writing_assistance_workflow.png" style="
+    <img src="/pivlab-website/images/blog/writing_assistance_workflow.png" style="
         width: 70%;
         max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="figure image" loading="lazy" onerror="this.src = '/pivlab-website/images/fallback.svg'; this.onerror = null;" />
   </a>
   
 </figure>
@@ -239,10 +239,10 @@ Despite our multi-agent setup, final quality assurance still relied on human rev
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
-    <img src="/images/blog/ai_and_scientist_bright_future.png" style="
+    <img src="/pivlab-website/images/blog/ai_and_scientist_bright_future.png" style="
         width: 60%;
         max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="figure image" loading="lazy" onerror="this.src = '/pivlab-website/images/fallback.svg'; this.onerror = null;" />
   </a>
   
 </figure>
@@ -253,14 +253,14 @@ The collaborative hackathon environment pushed us to solve real-world integratio
 
 <p>Looking ahead, we’re excited to iterate on this foundation: refining prompt strategies to further reduce factual errors, experimenting with additional sub-agents (e.g., for data analysis or ethical bias checks), and exploring integrations with more diverse data sources to support scientific writing.
 By continuously benchmarking against human-authored papers and expanding our agent toolkit, we aim to uncover the full potential of Google ADK for research writing.
-This hackathon was just the beginning, and we’re eager to push the boundaries of what autonomous AI collaborations can achieve in scholarly publishing!</p>]]></content><author><name>faisal_alquaddoomi, vincent-rubinetti, dave-bunten, milton-pividori</name></author><category term="agents," /><category term="llm," /><category term="google-adk," /><category term="vuejs," /><category term="fastapi," /><category term="adkhackathon" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Initializing Pividori Lab</title><link href="https://pivlab.org/2023/04/24/initializing-pividori-lab.html" rel="alternate" type="text/html" title="Initializing Pividori Lab" /><published>2023-04-24T00:00:00+00:00</published><updated>2025-09-09T18:33:03+00:00</updated><id>https://pivlab.org/2023/04/24/initializing-pividori-lab</id><content type="html" xml:base="https://pivlab.org/2023/04/24/initializing-pividori-lab.html"><![CDATA[<div class="float" data-flip="">
+This hackathon was just the beginning, and we’re eager to push the boundaries of what autonomous AI collaborations can achieve in scholarly publishing!</p>]]></content><author><name>faisal_alquaddoomi, vincent-rubinetti, dave-bunten, milton-pividori</name></author><category term="agents," /><category term="llm," /><category term="google-adk," /><category term="vuejs," /><category term="fastapi," /><category term="adkhackathon" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Initializing Pividori Lab</title><link href="https://jillhoffman.github.io/pivlab-website/2023/04/24/initializing-pividori-lab.html" rel="alternate" type="text/html" title="Initializing Pividori Lab" /><published>2023-04-24T00:00:00+00:00</published><updated>2025-10-09T20:27:09+00:00</updated><id>https://jillhoffman.github.io/pivlab-website/2023/04/24/initializing-pividori-lab</id><content type="html" xml:base="https://jillhoffman.github.io/pivlab-website/2023/04/24/initializing-pividori-lab.html"><![CDATA[<div class="float" data-flip="">
   
 <figure class="figure">
-  <a href="/research" class="figure-image" aria-label="An abstract painting depicting the dawn light shining on a biomedical informatics research laboratory - Milton DALL E">
-    <img src="/images/blog/2023-04-25-dalle_2.png" style="
+  <a href="/pivlab-website/research" class="figure-image" aria-label="An abstract painting depicting the dawn light shining on a biomedical informatics research laboratory - Milton DALL E">
+    <img src="/pivlab-website/images/blog/2023-04-25-dalle_2.png" style="
         width: 100%;
         max-height: unset;
-      " alt="An abstract painting depicting the dawn light shining on a biomedical informatics research laboratory - Milton DALL E" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="An abstract painting depicting the dawn light shining on a biomedical informatics research laboratory - Milton DALL E" loading="lazy" onerror="this.src = '/pivlab-website/images/fallback.svg'; this.onerror = null;" />
   </a>
   
     <figcaption class="figure-caption">

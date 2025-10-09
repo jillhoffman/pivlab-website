@@ -1,1 +1,1 @@
-Sitemap: https://pivlab.org/sitemap.xml
+Sitemap: https://jillhoffman.github.io/pivlab-website/sitemap.xml
